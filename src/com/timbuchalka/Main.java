@@ -12,10 +12,10 @@ public class Main {
         temp = new StockItem("cake", 1.10, 6);
         stockList.addStock(temp);
 
-        temp = new StockItem("car", 12.50, 3);
+        temp = new StockItem("car", 12.50, 4);
         stockList.addStock(temp);
 
-        temp = new StockItem("chair", 62.0, 10);
+        temp = new StockItem("chair", 62.0, 11);
         stockList.addStock(temp);
 
         temp = new StockItem("cup", 0.50, 200);
