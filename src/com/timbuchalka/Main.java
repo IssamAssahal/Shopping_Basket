@@ -18,7 +18,7 @@ public class Main {
         temp = new StockItem("chair", 62.0, 11);
         stockList.addStock(temp);
 
-        temp = new StockItem("cup", 0.50, 200);
+        temp = new StockItem("cup", 0.50, 100);
         stockList.addStock(temp);
         temp = new StockItem("cup", 0.45, 7);
         stockList.addStock(temp);
